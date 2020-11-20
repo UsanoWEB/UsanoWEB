@@ -36,11 +36,8 @@ I like:
 <br>
 <br>
 <br>
-
-
-<img align="left" alt="info" width="30px" src="https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_info_outline_48px-128.png">
-
-[**More info**][site]
+ 
+[_**More info**_][site]
 
 
 [site]:https://usanogit.github.io/

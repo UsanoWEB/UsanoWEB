@@ -29,14 +29,18 @@ I like:
 <br>
 <br>
 <br>
-<img align="left" alt="linux-pinguy" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="left" alt="linux-pinguy" width="50px" src="https://cdn4.iconfinder.com/data/icons/proglyphs-free/512/Linux_-_Tux-128.png">
 <img align="left" alt="bash" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-<img align="left" alt="git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="github" width="50px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png">
+<img align="left" alt="git" width="50px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png">
+<img align="left" alt="github" width="50px" src="https://cdn0.iconfinder.com/data/icons/social-15/200/github-icon-128.png">
 <br>
 <br>
 <br>
 
-[More info][site]
+
+<img align="left" alt="info" width="30px" src="https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_info_outline_48px-128.png">
+
+[**More info**][site]
+
 
 [site]:https://usanogit.github.io/

@@ -40,4 +40,4 @@ I like:
 [_**More info**_][site]
 
 
-[site]:https://usanogit.github.io/
+[site]: https://usanogit.github.io/UsanoWeb.github.io

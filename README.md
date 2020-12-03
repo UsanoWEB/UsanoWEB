@@ -37,4 +37,4 @@ I like:
 <br>
 <br>
  
-[_**More info**_](https://usanogit.github.io/UsanoWEB.github.io/)
+

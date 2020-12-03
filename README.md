@@ -1,13 +1,6 @@
 # Hello!!!👋I'm a [UsanoWeb](https://instagram.com/UsanoWeb/)
 
 ## I'm a fullstack web developer and Linuxoid 🐧
-
-I like:
-- :metal: Rock
-- :bike:bike
-- :computer:coding
-- ::space_invader: view & change different OS
-- and design desktop wallpapers :art:
 # Skills and Tools 
 <img align="left" alt="HTML5" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-128.png">
 <img align="left" alt="CSS3" width="50px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-128.png">

@@ -30,5 +30,4 @@
 <br>
 <br>
  
-## Visit this [Website](https://usanoweb.github.io/) to more info.
 

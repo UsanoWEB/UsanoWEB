@@ -21,7 +21,6 @@
 <img align="left" alt="Mongodb" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png">
 <img align="left" alt="MySQL" width="50px" src="https://cdn2.iconfinder.com/data/icons/web-development-17/64/mysql_web_browser_development_coding_www_online_18-256.png">
 <img align="left" alt="Ruby" width="50px" src="https://cdn3.iconfinder.com/data/icons/black-circle-vol-1/354/Achivements_Goal_Mission_Diamond_Ruby_Prize_Vision-256.png">
-
 <br>
 <br>
 <br>

@@ -5,16 +5,19 @@
 ## I'm a fullstack web developer and Linuxoid 🐧
 # Skills and Tools 
 
-
-
-
-<img align="left" alt="flask" width="50px" src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png"/>
+<img align="left" alt="HTML" width="50px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png"/>
+<img align="left" alt="CSS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-4/24/CSS-3-256.png"/>
+<img align="left" alt="JS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png"/>
+<img align="left" alt="NodeJS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png"/>
+<img align="left" alt="React" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png"/>
+<img align="left" alt="Flask" width="50px" src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png"/>
+<img align="left" alt="Python" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/>
 <br>
 <br>
 <br>
-<img align="left" alt="mongodb" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png">
-<img align="left" alt="mysql" width="50px" src="https://cdn2.iconfinder.com/data/icons/web-development-17/64/mysql_web_browser_development_coding_www_online_18-256.png">
-<img align="left" alt="ruby" width="50px" src="https://cdn3.iconfinder.com/data/icons/black-circle-vol-1/354/Achivements_Goal_Mission_Diamond_Ruby_Prize_Vision-256.png">
+<img align="left" alt="Mongodb" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png">
+<img align="left" alt="MySQL" width="50px" src="https://cdn2.iconfinder.com/data/icons/web-development-17/64/mysql_web_browser_development_coding_www_online_18-256.png">
+<img align="left" alt="Ruby" width="50px" src="https://cdn3.iconfinder.com/data/icons/black-circle-vol-1/354/Achivements_Goal_Mission_Diamond_Ruby_Prize_Vision-256.png">
 
 <br>
 <br>

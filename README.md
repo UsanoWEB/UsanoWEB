@@ -3,34 +3,6 @@
 
 
 ## I'm a fullstack web developer and Linuxoid 🐧
-# Skills and Tools 
-
-<img align="left" alt="HTML" width="50px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-256.png"/>
-<img align="left" alt="CSS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-4/24/CSS-3-256.png"/>
-<img align="left" alt="JS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png"/>
-<br>
-<br>
-<br>
-<img align="left" alt="NodeJS" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png"/>
-<img align="left" alt="React" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png"/>
-<img align="left" alt="Flask" width="50px" src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png"/>
-<img align="left" alt="Python" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/>
-<br>
-<br>
-<br>
-<img align="center" alt="Mongodb" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png">
-<img align="left" alt="MySQL" width="50px" src="https://cdn2.iconfinder.com/data/icons/web-development-17/64/mysql_web_browser_development_coding_www_online_18-256.png">
-<img align="left" alt="Ruby" width="50px" src="https://cdn3.iconfinder.com/data/icons/black-circle-vol-1/354/Achivements_Goal_Mission_Diamond_Ruby_Prize_Vision-256.png">
-<br>
-<br>
-<br>
-<img align="left" alt="linux-pinguy" width="50px" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/linux_tox-256.png">
-<img align="left" alt="bash" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-<img align="left" alt="git" width="50px" src="https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_git-256.png">
-<img align="left" alt="github" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/142_Github_logo_logos-256.png">
-<br>
-<br>
-<br>
 
 # Owner of [_*UsanoProd*_](https://github.com/UsanoProd)
 <img alt="usanoprod" src="https://avatars.githubusercontent.com/u/68772195?s=200&v=4"> 

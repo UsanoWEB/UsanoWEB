@@ -8,7 +8,7 @@
 ## I'm a fullstack web developer and Linuxoid 🐧
 
 # Owner of [_*UsanoProd*_](https://github.com/UsanoProd)
-<img alt="usanoprod" src="https://avatars.githubusercontent.com/u/68772195?s=200&v=4"> 
+<img width="500px" height="500px" alt="usanoprod" src="https://avatars.githubusercontent.com/u/68772195?s=200&v=4"> 
 
 # Languages and Tools:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)

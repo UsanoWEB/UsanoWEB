@@ -2,17 +2,7 @@
 # Hello!!!👋I'm a [UsanoWeb](https://instagram.com/UsanoWeb/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=usanoweb.usanoweb) 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ## I'm a fullstack web developer and Linuxoid 🐧
-
-# Languages and Tools:
-![React](https://cdn.svgporn.com/logos/react.svg)
-![Node.js](https://cdn.svgporn.com/logos/nodejs-icon.svg)
-![HTML](https://cdn.svgporn.com/logos/html-5.svg)
-![CSS](https://cdn.svgporn.com/logos/css-3.svg)
-![JavaScript](https://cdn.svgporn.com/logos/javascript.svg)
-![Python](https://cdn.svgporn.com/logos/python.svg)
 
  # Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/usanoweb/)

@@ -7,12 +7,12 @@
 ## I'm a fullstack web developer and Linuxoid 🐧
 
 # Languages and Tools:
-![React]()
-![Node.js]()
-![HTML]()
-![CSS]()
-![JavaScript]()
-![Python]()
+![React](https://cdn.svgporn.com/logos/react.svg)
+![Node.js](https://cdn.svgporn.com/logos/nodejs-icon.svg)
+![HTML](https://cdn.svgporn.com/logos/html-5.svg)
+![CSS](https://cdn.svgporn.com/logos/css-3.svg)
+![JavaScript](https://cdn.svgporn.com/logos/javascript.svg)
+![Python](https://cdn.svgporn.com/logos/python.svg)
 
  # Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/usanoweb/)

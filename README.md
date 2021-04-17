@@ -6,5 +6,5 @@
 # Activity
 ![stats](https://github-readme-stats.vercel.app/api?username=usanoweb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usanoweb&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
-![Usanoweb's heroku stats](https://github-readme-streak-stats.herokuapp.com/?user=usanoweb)
+
 
